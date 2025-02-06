@@ -2,8 +2,6 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... c lang
 - 💞️ I’m looking to collaborate on ... building something that makes a difference.
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I wanna rule the world
 
 <!---
